@@ -1,45 +1,79 @@
-<h1 align="center">Hi 👋, I'm Sayan Mondal</h1>
-<h3 align="center">An AI & Machine Learning student from India</h3>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:111111,100:0e75b6&height=150&section=header" width="100%"/>
 
-<p align="center">Email Me 👉 ✉️ <strong>sm7313617@gmail.com</strong> For Collaboration/Project or Anything Else. 😊😊</p>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sm7313617-create&label=Profile%20views&color=0e75b6&style=flat" alt="sm7313617-create" /> </p>
-
-- 🔭 I’m currently working on [OpenBioSet](https://github.com/desanju2233/OpenBioSet.git)
-- 🌱 I’m currently learning **Advanced PyTorch, AWS, and spatial data analysis**
-- 💬 Ask me about **Python, Computer Vision, Machine Learning, and Data Science**
-- 📫 How to reach me **sm7313617@gmail.com**
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DSRjrJQwCHanOtFgLTWkEwf1MG6imtaC/view?usp=sharing)
-
-<!-- Snake Game Repo View -->
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
-
-## 💻 Tech Stack
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sm7313617-create&theme=dark" alt="sm7313617-create" />
-</p>
-
-## 🌐 Socials
-<p align="left">
-<a href="https://linkedin.com/in/sayan-mondal-a5278027b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sayan-mondal-a5278027b" height="30" width="40" /></a>
-<a href="https://kaggle.com/sayanmondal772" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="sayanmondal772" height="30" width="40" /></a>
-<a href="https://fb.com/sayan.mondal.602625" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sayan.mondal.602625" height="30" width="40" /></a>
-<a href="https://instagram.com/sayanmondal1027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayanmondal1027" height="30" width="40" /></a>
-</p>
+<h1 align="center">Sayan Mondal</h1>
+<p align="center">AI & Machine Learning Student | Researcher in CV & NLP</p>
+<hr>
 
 <br>
 
-<h3 align="center">✍️ Random Dev Quote</h3>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="150">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" alt="Boy coding" width="100" />
+      </td>
+      <td align="center">
+        <pre>
+   _   _      _ _        __        __         _     _ 
+  | | | | ___| | | ___   \ \      / /__  _ __| | __| |
+  | |_| |/ _ \ | |/ _ \   \ \ /\ / / _ \| '__| |/ _` |
+  |  _  |  __/ | | (_) |   \ V  V / (_) | |  | | (_| |
+  |_| |_|\___|_|_|\___/     \_/\_/ \___/|_|  |_|\__,_|
+        </pre>
+      </td>
+    </tr>
+  </table>
+  <p><code>. system online - welcome_</code></p>
+</div>
+
+<br>
+
+### whoami
+I'm **Sayan Mondal** — an undergraduate Computer Science (AI & ML) student at Brainware University, West Bengal. I build machine learning models, curate datasets, and develop applications in Computer Vision and NLP. I've worked on research projects at IIT Roorkee, ISI Kolkata, and DTECH. Currently open to internships and interesting AI problems.
+
+<br>
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
-<h3 align="center">🔝 Top Contributed Repo</h3>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sm7313617-create&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
+<hr>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sm7313617-create&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sm7313617-create&theme=tokyonight&hide_border=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sm7313617-create&theme=tokyonight&layout=compact&hide_border=true" />
+</div>
+
+<hr>
+
+### 🏆 wins & projects
+- 🔭 **OpenBioSet** - Automated pipeline translating lab protocols to BioScript code.
+- ⚡ **Electra Sense** - Electricity bill forecasting web application using Python & Flask.
+- 🌍 **LabourLens** - Interactive unemployment analysis dashboard using Streamlit.
+- ☀️ **Solar Supply Predictor** - Forecasting energy generation using time-series analysis.
+
+<hr>
+
+<div align="center">
+  <h3>let's build something.</h3>
+  <p>📍 Howrah, India · 📧 sm7313617@gmail.com</p>
+  <p>
+    <a href="https://linkedin.com/in/sayan-mondal-a5278027b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:sm7313617@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=sm7313617-create&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0e75b6,100:111111&height=150&section=footer" width="100%"/>

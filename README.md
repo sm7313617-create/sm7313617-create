@@ -63,10 +63,16 @@ I'm **Sayan Mondal** — an undergraduate Computer Science (AI & ML) student at 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sm7313617-create&theme=dark&show_icons=true&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sm7313617-create&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sm7313617-create&theme=tokyonight&hide_border=true&area=true&color=0e75b6&line=0e75b6&point=ffffff" alt="Contribution Graph" width="100%"/>
+  
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sm7313617-create&theme=dark&layout=compact&hide_border=true" alt="Top Langs" />
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sm7313617-create&theme=tokyonight&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sm7313617-create&theme=tokyonight&hide_border=true" />
+  
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sm7313617-create&theme=tokyonight&layout=compact&hide_border=true" />
 </div>
 
 ---

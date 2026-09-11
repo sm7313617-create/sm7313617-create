@@ -80,7 +80,13 @@ I'm **Sayan Mondal** — an undergraduate Computer Science (AI & ML) student at 
   
 #### 𐃯 projects
 
-<sub>🔭 **OpenBioSet** — Automated pipeline translating lab protocols to BioScript code<br/>⚡ **Electra Sense** — Electricity bill forecasting web application using Python & Flask<br/>🌍 **LabourLens** — Interactive unemployment analysis dashboard using Streamlit<br/>☀️ **Solar Supply Predictor** — Forecasting energy generation using time-series analysis</sub>
+<sub>
+🧠 **Network-Surgery-For-Cross-Sensor-Adaptation** — Cross-sensor adaptation research<br/>
+🔭 **OpenBioSet** — Automated pipeline translating lab protocols to BioScript code<br/>
+🌊 **turbid-water-project** — Water quality analysis & Image Segmentation project<br/>
+💳 **razorpay-revenue-recovery** — Revenue recovery Agentic pipeline<br/>
+
+</sub>
 
 #
 

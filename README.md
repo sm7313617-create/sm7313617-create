@@ -32,8 +32,14 @@
 <a href="https://instagram.com/sayanmondal1027" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sayanmondal1027" height="30" width="40" /></a>
 </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sm7313617-create&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h3 align="center">✍️ Random Dev Quote</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
+
+<h3 align="center">🔝 Top Contributed Repo</h3>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sm7313617-create&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>

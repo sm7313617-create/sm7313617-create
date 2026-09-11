@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:111111,100:0e75b6&height=150&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:111111,100:0e75b6&height=80&section=header" width="100%"/>
 
 <h1 align="center">Sayan Mondal</h1>
 <p align="center">AI & Machine Learning Student | Researcher in CV & NLP</p>
@@ -10,7 +10,7 @@
   <table>
     <tr>
       <td align="center" width="150">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Man%20Technologist.png" alt="Boy coding" width="100" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Boy coding" width="100" />
       </td>
       <td align="center">
         <pre>
@@ -49,9 +49,15 @@ I'm **Sayan Mondal** — an undergraduate Computer Science (AI & ML) student at 
 <hr>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sm7313617-create&theme=tokyonight&hide_border=true&area=true&color=0e75b6&line=0e75b6&point=ffffff" alt="Contribution Graph" width="100%"/>
+  
+  <br><br>
+
   <img src="https://github-readme-stats.vercel.app/api?username=sm7313617-create&theme=tokyonight&show_icons=true&hide_border=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sm7313617-create&theme=tokyonight&hide_border=true" />
+  
   <br><br>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sm7313617-create&theme=tokyonight&layout=compact&hide_border=true" />
 </div>
 
@@ -76,4 +82,4 @@ I'm **Sayan Mondal** — an undergraduate Computer Science (AI & ML) student at 
   <img src="https://komarev.com/ghpvc/?username=sm7313617-create&label=Profile%20views&color=0e75b6&style=flat" alt="Views" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0e75b6,100:111111&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:0e75b6,100:111111&height=80&section=footer" width="100%"/>

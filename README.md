@@ -78,7 +78,7 @@ I'm **Sayan Mondal** — an undergraduate Computer Science (AI & ML) student at 
 
 <div align="center">
   
-#### 𐃯 wins & projects
+#### 𐃯 projects
 
 <sub>🔭 **OpenBioSet** — Automated pipeline translating lab protocols to BioScript code<br/>⚡ **Electra Sense** — Electricity bill forecasting web application using Python & Flask<br/>🌍 **LabourLens** — Interactive unemployment analysis dashboard using Streamlit<br/>☀️ **Solar Supply Predictor** — Forecasting energy generation using time-series analysis</sub>
 
@@ -86,8 +86,7 @@ I'm **Sayan Mondal** — an undergraduate Computer Science (AI & ML) student at 
 
 #### let's build something.
 
-<sub>📍 Howrah, India &nbsp;·&nbsp; <a href="mailto:sm7313617@gmail.com">sm7313617@gmail.com</a> &nbsp;·&nbsp; <code>sayan@dev$ _</code></sub>
-<br/><br/>
+<sub>📍 Howrah, India &nbsp;·&nbsp; <a href="mailto:sm7313617@gmail.com">sm7313617@gmail.com</a> &nbsp;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayan-mondal-a5278027b)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sm7313617@gmail.com)

@@ -3,7 +3,7 @@
 <div align="center">
 <br/>
   
-# Sayan Mondal
+# Sayan Mondal🌀
 
 <sup>AI & Machine Learning Student &nbsp;·&nbsp; Researcher in CV & NLP </sup>
 

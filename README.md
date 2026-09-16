@@ -92,7 +92,7 @@ I'm **Sayan Mondal** — an undergraduate Computer Science (AI & ML) student at 
 
 #### let's build something.
 
-<sub>📍 Howrah, India &nbsp;·&nbsp; ✉️ <a href="mailto:sm7313617@gmail.com">sm7313617@gmail.com</a> &nbsp;
+<sub>📍 Howrah, India &nbsp;·&nbsp; 📧 <a href="mailto:sm7313617@gmail.com">sm7313617@gmail.com</a> &nbsp;
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sayan-mondal-a5278027b)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sm7313617@gmail.com)
